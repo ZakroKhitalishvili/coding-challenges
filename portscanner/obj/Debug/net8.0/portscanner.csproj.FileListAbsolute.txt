@@ -1,0 +1,14 @@
+C:\Users\Zakro\source\coding challenges\portscanner\bin\Debug\net8.0\portscanner.exe
+C:\Users\Zakro\source\coding challenges\portscanner\bin\Debug\net8.0\portscanner.deps.json
+C:\Users\Zakro\source\coding challenges\portscanner\bin\Debug\net8.0\portscanner.runtimeconfig.json
+C:\Users\Zakro\source\coding challenges\portscanner\bin\Debug\net8.0\portscanner.dll
+C:\Users\Zakro\source\coding challenges\portscanner\bin\Debug\net8.0\portscanner.pdb
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.AssemblyInfoInputs.cache
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.AssemblyInfo.cs
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.csproj.CoreCompileInputs.cache
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.dll
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\refint\portscanner.dll
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.pdb
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\portscanner.genruntimeconfig.cache
+C:\Users\Zakro\source\coding challenges\portscanner\obj\Debug\net8.0\ref\portscanner.dll
